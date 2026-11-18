@@ -31,3 +31,19 @@
 # Per levare una tendina: cancella il blocco, la voce torna un link normale.
 # Documentazione del funzionamento: commento in testa a _includes/masthead.html.
 # =====================================================================================
+
+Servizi:
+  - title: "Scavi e sbancamenti"
+    url: /servizi/scavi-e-sbancamenti/
+  - title: "Miniescavatore"
+    url: /servizi/miniescavatore/
+  - title: "Trasporto con camion e bilici"
+    url: /servizi/trasporto-con-camion-e-bilici/
+  - title: "Lavorazione dei terreni con trattore"
+    url: /servizi/lavorazione-terreni-con-trattore/
+  - title: "Rimozione macerie e demolizioni leggere"
+    url: /servizi/rimozione-macerie-e-demolizioni-leggere/
+  - title: "Sistemazione di piazzali e strade private"
+    url: /servizi/sistemazione-piazzali-e-strade/
+  - title: "Tutti i servizi"
+    url: /servizi/

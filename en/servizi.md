@@ -7,7 +7,7 @@ ref: servizi
 lang: en
 locale: en
 tr: tradotto
-tr_hash: 1f5nd3z
+tr_hash: bvw7qm
 permalink: /en/services/
 ---
 
