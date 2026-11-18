@@ -7,21 +7,28 @@ ref: servizi
 lang: en
 locale: en
 tr: tradotto
-tr_hash: u3h8wh
+tr_hash: 1f5nd3z
 permalink: /en/services/
 ---
 
-One sentence introducing the services. State prices and conditions only if they are real.
+Excavation, earthmoving, haulage by truck and land work, with the right machine for every job.
 
-## First service
-Description of the first service: what it includes and who it is for.
+## Excavation and earthmoving
+Excavators and mini excavators for foundations, trenches, site clearing, levelling and fill. The mini excavator goes where the big one can't.
 
-## Second service
-Description of the second service.
+## Haulage by truck
+Trucks and heavy lorries to haul away soil, rubble and aggregates, or deliver sand and gravel. The excavator loads the heavy vehicles on site.
 
-## How an engagement works
-1. **First step**: description.
-2. **Second step**: description.
-3. **Third step**: description.
+## Land preparation
+Tractors for ploughing, tilling, grass cutting and clearing of fields and plots, also to prepare gardens and vegetable plots.
 
-[Contact us]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}
+## Jobs on request
+Light demolition, rubble removal, roads and yards. If you don't see your job here, describe it to us.
+
+## How a job works
+1. **You tell us the job**: where, how big, what ground.
+2. **We pick the machines**: excavator, mini excavator, truck or tractor.
+3. **Quote**: costs and timing before we start.
+4. **Work and clean-up**: the area is left tidy.
+
+[Request a quote]({{ '/en/contact/' | relative_url }}){: .btn .btn--primary}

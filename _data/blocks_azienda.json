@@ -3,12 +3,12 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Titolo della presentazione</h2><p class=\"gc-lead\">Chi siete, cosa fate e per chi.</p><p>Un paragrafo in più su come lavorate.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Mezzi per muovere la terra</h2><p class=\"gc-lead\">Facciamo scavi, movimento terra e trasporti con escavatori, miniescavatori, camion e trattori.</p><p>Lavoriamo per privati, imprese e proprietari di terreni. Ogni lavoro parte da un'idea chiara di cosa serve: così mandiamo il mezzo giusto, non quello più grosso.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Primo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Secondo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Terzo principio</b><p>Descrizione breve.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Il mezzo giusto</b><p>Un miniescavatore dove si passa stretti, un camion grosso dove serve portare via tanto.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Prezzi chiari</b><p>Preventivo detto prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Area in ordine</b><p>A fine lavoro lasciamo il posto pulito.</p></div></div></div></section></div>"
   }
 ]
